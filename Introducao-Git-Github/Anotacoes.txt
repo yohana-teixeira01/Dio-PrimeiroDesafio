@@ -1,0 +1,15 @@
+Link para download do Git:https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Modulo II - Primeiros Passos para desenvolvimento WEB.
+
+O que são redes - Exercício Final
+
+Descobrindo o endereço de sites famosos no Windows:
+1. Aperte as teclas windows + R
+2. digite cmd e aperte ENTER
+3. Na tela preta que aparecer ,
+4.digite ping <site> obs: Onde tem site digite a URL do site.
+5. Algo nessa estrutura será mostrado:
+
+Pinging www.algumsite.com.br [***.***.**.**] obs: os números substituir por *.
